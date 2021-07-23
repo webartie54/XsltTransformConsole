@@ -1,0 +1,14 @@
+C:\Users\Thierry\source\repos\ConsoleXSLT\ConsoleXSLT\bin\Debug\ConsoleXSLT.exe.config
+C:\Users\Thierry\source\repos\ConsoleXSLT\ConsoleXSLT\bin\Debug\ConsoleXSLT.exe
+C:\Users\Thierry\source\repos\ConsoleXSLT\ConsoleXSLT\bin\Debug\ConsoleXSLT.pdb
+C:\Users\Thierry\source\repos\ConsoleXSLT\ConsoleXSLT\obj\Debug\ConsoleXSLT.csprojAssemblyReference.cache
+C:\Users\Thierry\source\repos\ConsoleXSLT\ConsoleXSLT\obj\Debug\ConsoleXSLT.csproj.CoreCompileInputs.cache
+C:\Users\Thierry\source\repos\ConsoleXSLT\ConsoleXSLT\obj\Debug\ConsoleXSLT.exe
+C:\Users\Thierry\source\repos\ConsoleXSLT\ConsoleXSLT\obj\Debug\ConsoleXSLT.pdb
+C:\Users\TBoulanger\Documents\Travail\cesi\ConsoleXSLT\ConsoleXSLT\bin\Debug\ConsoleXSLT.exe.config
+C:\Users\TBoulanger\Documents\Travail\cesi\ConsoleXSLT\ConsoleXSLT\bin\Debug\ConsoleXSLT.exe
+C:\Users\TBoulanger\Documents\Travail\cesi\ConsoleXSLT\ConsoleXSLT\bin\Debug\ConsoleXSLT.pdb
+C:\Users\TBoulanger\Documents\Travail\cesi\ConsoleXSLT\ConsoleXSLT\obj\Debug\ConsoleXSLT.csprojAssemblyReference.cache
+C:\Users\TBoulanger\Documents\Travail\cesi\ConsoleXSLT\ConsoleXSLT\obj\Debug\ConsoleXSLT.csproj.CoreCompileInputs.cache
+C:\Users\TBoulanger\Documents\Travail\cesi\ConsoleXSLT\ConsoleXSLT\obj\Debug\ConsoleXSLT.exe
+C:\Users\TBoulanger\Documents\Travail\cesi\ConsoleXSLT\ConsoleXSLT\obj\Debug\ConsoleXSLT.pdb
