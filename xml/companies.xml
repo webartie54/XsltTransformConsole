@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<companies>
+    <company brand="atos">
+        <!-- est un entier entre 1000 et 9000 -->
+        <userId>1025</userId>
+        <!-- Obligatoire string -->
+        <firstname>Thierry</firstname>
+        <!-- Obligatoire string -->
+        <lastname>Boulanger</lastname>
+        <!-- Date, entre 01/01/1900 et 01/01/2022 -->
+        <birthday>21/02/1999</birthday>
+        <!-- Chiffre d'affaire -->
+        <turnover>1500000</turnover>
+    </company>
+    <company brand="cap">
+        <!-- est un entier entre 1000 et 9000 -->
+        <userId>1027</userId>
+        <!-- Obligatoire string -->
+        <firstname>Thierry</firstname>
+        <!-- Obligatoire string -->
+        <lastname>Boulanger</lastname>
+        <!-- Date, entre 01/01/1900 et 01/01/2022 -->
+        <birthday>21/02/1999</birthday>
+        <!-- Chiffre d'affaire -->
+        <turnover>1000000</turnover>
+    </company>
+    <company brand="cesi">
+        <!-- est un entier entre 1000 et 9000 -->
+        <userId>1055</userId>
+        <!-- Obligatoire string -->
+        <firstname>Thierry</firstname>
+        <!-- Obligatoire string -->
+        <lastname>Boulanger</lastname>
+        <!-- Date, entre 01/01/1900 et 01/01/2022 -->
+        <birthday>21/02/1999</birthday>
+        <!-- Chiffre d'affaire -->
+        <turnover>500000</turnover>
+    </company>
+</companies>
+
+<!-- 1) Afficher les compagnies sous la forme d'un tableau
+2) Afficher les compagnies sous la forme d'un tableau mais seulement les userID > 1000
+3) Modifier le xml pour inclure le chiffre d'affaire et dans la transformation afficher en rouge les compagnie avec un chiffre d'affaire  < 1 million d'euros -->
+<!-- 3.1) en vert > 1 million et en orange = 1 million -->
+<!-- 4) afficher les données en csv --> 
+<!-- atos;1025;thierry;boulanger;1500000 -->
+<!-- 5) ajouter un nouveau noeud et un nouvel attribut au xml source

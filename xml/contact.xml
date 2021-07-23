@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<company brand="atos"  >
+    <!-- est un entier entre 1000 et 9000 -->
+    <userId>1025</userId>
+    <!-- Obligatoire string -->
+    <firstname>Thierry</firstname>
+    <!-- Obligatoire string -->
+    <lastname>Boulanger</lastname>
+    <!-- Date, entre 01/01/1900 et 01/01/2022 -->
+    <birthday>21/02/1999</birthday>    
+</company>
